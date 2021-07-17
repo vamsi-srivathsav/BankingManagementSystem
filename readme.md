@@ -30,8 +30,12 @@ cc client.c -o client
  - Administrator (Admin)
 4. Admin can add, delete, modify, search for a specific account details.
 5. On successful login of customer using UserName and Password, a menu is displayed as :
-- Deposite
- - Withdraw amount
+- Deposit
+- Withdraw amount
+- Check Balance
+- Change Password
+- View account details
+- Exit
 
 
-## Contributig
+
