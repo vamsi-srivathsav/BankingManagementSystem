@@ -25,17 +25,17 @@ cc client.c -o client
 1. All account details and customer information is stored in files. 
 2. Login system for account holders and password protected administrative access from Admin. Thus, preventing the system from unauthorized access. 
 3. Three types of login :
- - Normal user
- - Joint account user
- - Administrator (Admin)
+    - Normal user
+    - Joint account user
+    - Administrator (Admin)
 4. Admin can add, delete, modify, search for a specific account details.
 5. On successful login of customer using UserName and Password, a menu is displayed as :
-- Deposit
-- Withdraw amount
-- Check Balance
-- Change Password
-- View account details
-- Exit
+    - Deposit
+    - Withdraw amount
+    - Check Balance
+    - Change Password
+    - View Account Details
+    - Exit
 
 
 
